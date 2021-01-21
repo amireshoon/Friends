@@ -5,7 +5,9 @@ All the lines and sarcasm and also conversations in alphabetic characters. Could
 
 ## A
 
+
 ## B
+
 
 ## C
 
@@ -61,6 +63,16 @@ All the lines and sarcasm and also conversations in alphabetic characters. Could
 ## V
 
 ## W
+
+<li>
+<h4><code>The One with the Cat — Episode 2 Season 4</code></h4>
+<p>
+<span style="color: #cd5d7d;">Monica</span> : What happend?
+
+<span style="color: #cd5d7d;">Chandler</span> : Well, Joey was born and then 28 years later I was robbed!.
+</p>
+</li>
+
 
 ## X
 
