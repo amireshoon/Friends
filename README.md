@@ -1,8 +1,9 @@
+<p>
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/amireshoon/Friends">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/amireshoon/Friends">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/amireshoon/Friends">
 <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/amireshoon/Friends">
-<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/amireshoon/Friends">
+<img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/amireshoon/Friends"></p>
 
 # Friends popular lines and conversations
 
