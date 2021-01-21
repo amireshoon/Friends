@@ -11,6 +11,8 @@
 
 All the below data collected from [Wikipedia](https://en.wikipedia.org/wiki/Friends)
 
+> Spoiler alert: Some of the below descriptions may have some spoils.
+
 ## [Rachel Green](/rachel)
 A fashion enthusiast and Monica Geller's best friend from childhood. Rachel first moves in with Monica in season one after nearly marrying Barry Farber. Rachel and Ross Geller are later involved in an on-again, off-again relationship throughout the series. Rachel dates other men during the series, such as an Italian neighbor, Paolo, in season one; Joshua Bergin, a client from Bloomingdale's, in season four; Tag Jones, her assistant, in season seven; and Joey Tribbiani in season ten. Rachel's first job is as a waitress at the coffee house Central Perk, but she later becomes an assistant buyer at Bloomingdale's in season three, and a buyer at Ralph Lauren in season five. Rachel and Ross have a daughter named Emma in "The One Where Rachel Has a Baby, Part Two" at the end of season eight. In the final episode of the series, Ross and Rachel confess their love for each other, and Rachel gives up a job in Paris to be with him.
 
