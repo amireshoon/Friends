@@ -36,6 +36,21 @@ All the lines and sarcasm and also conversations in alphabetic characters. Could
 
 ## I
 
+<li>
+<h4><code>The One With The Proposal, Part 1 — Episode 24 Season 6</code></h4>
+<p>
+<span style="color: #cd5d7d;">Chandler</span> : im Chandler, i make jokes when im ucomfortable.
+</p>
+
+<h4><code>The One With The Tea Leaves — Episode 17 Season 8</code></h4>
+<p>
+<span style="color: #cd5d7d;">Chandler</span> : im not great at the advice; can i intrest you with a sarcastic comment?
+some cheese?!
+</p>
+
+</li>
+
+
 ## J
 
 ## K
