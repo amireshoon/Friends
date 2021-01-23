@@ -63,6 +63,12 @@ some cheese?!
 
 ## O
 <li>
+<h4><code>The One Where Joey Dates Rachel — Episode 6 Season 7</code></h4>
+<p>
+<span style="color: #cd5d7d;">Joey</span> : look i got you
+
+<span style="color: #cd5d7d;">Chandler</span> : oh my god; you almost gave me a heart attak!
+</p>
 <h4><code>The One Where Joey Dates Rachel — Episode 12 Season 8</code></h4>
 <p>
 <span style="color: #cd5d7d;">Pheobe</span> : Hey look i got you a present
