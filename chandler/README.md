@@ -63,7 +63,7 @@ some cheese?!
 
 ## O
 <li>
-<h4><code>The One Where Joey Dates Rachel — Episode 6 Season 7</code></h4>
+<h4><code>The One Where Phoebe Runs — Episode 6 Season 7</code></h4>
 <p>
 <span style="color: #cd5d7d;">Joey</span> : look i got you
 
