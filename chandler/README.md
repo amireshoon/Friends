@@ -122,6 +122,15 @@ some cheese?!
 
 <span style="color: #cd5d7d;">Chandler</span> : Well, Joey was born and then 28 years later I was robbed!.
 </p>
+
+<h4><code>The One With Ross's Tan — Episode 3 Season 10</code></h4>
+<p>
+<span style="color: #cd5d7d;">Chandler</span> : Hold on; there is somyhing diffrent.
+
+<span style="color: #cd5d7d;">Ross</span> : I went to that tanning place your wife sugessted.
+
+<span style="color: #cd5d7d;">Chandler</span> : Was that place the sun??!
+</p>
 </li>
 
 
