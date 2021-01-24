@@ -60,6 +60,14 @@ some cheese?!
 ## M
 
 ## N
+<li>
+<h4><code>The One With Ross's Teeth — Episode 8 Season 6</code></h4>
+<p>
+<span style="color: #cd5d7d;">Joey</span> : Hey Chandler come on in; we are knitting potholders.
+
+<span style="color: #cd5d7d;">Chandler</span> : No, thanks Josephine!.
+</p>
+</li>
 
 ## O
 <li>
