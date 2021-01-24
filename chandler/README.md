@@ -4,7 +4,13 @@ All the lines and sarcasm and also conversations in alphabetic characters. Could
 <uL>
 
 ## A
-
+<li>
+<h4><code>The Pilot — Episode 1 Season 1</code></h4>
+<p>
+<span style="color: #cd5d7d;">Ross</span> : I dont want to be single; i want to be married again.
+<span style="color: #cd5d7d;">Chandler</span> : And i just want a million dollars!
+</p>
+</li>
 
 ## B
 
