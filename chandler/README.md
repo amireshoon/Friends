@@ -113,7 +113,7 @@ some cheese?!
 <span style="color: #cd5d7d;">Monica</span> : Shut up; the camera adds 10 pounds.
 </p>
 <p>
-<span style="color: #cd5d7d;">Chandler</span> : So, how many cameras are actually on you?
+<span style="color: #cd5d7d;">Chandler</span> : So, how many cameras are actually on you?!
 </p>
 </li>
 
