@@ -4,7 +4,13 @@ All the lines and sarcasm and also conversations in alphabetic characters. Could
 <uL>
 
 ## A
-
+<li>
+<h4><code>The Pilot — Episode 1 Season 1</code></h4>
+<p>
+<span style="color: #cd5d7d;">Ross</span> : I dont want to be single; i want to be married again.
+<span style="color: #cd5d7d;">Chandler</span> : And i just want a million dollars!
+</p>
+</li>
 
 ## B
 
@@ -60,6 +66,14 @@ some cheese?!
 ## M
 
 ## N
+<li>
+<h4><code>The One With Ross's Teeth — Episode 8 Season 6</code></h4>
+<p>
+<span style="color: #cd5d7d;">Joey</span> : Hey Chandler come on in; we are knitting potholders.
+
+<span style="color: #cd5d7d;">Chandler</span> : No, thanks Josephine!.
+</p>
+</li>
 
 ## O
 <li>
@@ -84,6 +98,14 @@ some cheese?!
 ## R
 
 ## S
+<li>
+<h4><code>The Pilot — Episode 1 Season 1</code></h4>
+<p>
+<span style="color: #cd5d7d;">Chandler</span> : sometimes i wish i was a lesbian
+
+<span style="color: #cd5d7d;"></span> did i said that out loud??
+</p>
+</li>
 
 ## T
 
