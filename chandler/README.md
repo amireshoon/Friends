@@ -105,6 +105,16 @@ some cheese?!
 
 <span style="color: #cd5d7d;"></span> did i said that out loud??
 </p>
+<h4><code>The One With The Prom Video — Episode 14 Season 2</code></h4>
+<p>
+<span style="color: #cd5d7d;">Joey</span> : Some girl ate Monica.
+</p>
+<p>
+<span style="color: #cd5d7d;">Monica</span> : Shut up; the camera adds 10 pounds.
+</p>
+<p>
+<span style="color: #cd5d7d;">Chandler</span> : So, how many cameras are actually on you?!
+</p>
 </li>
 
 ## T
@@ -121,6 +131,15 @@ some cheese?!
 <span style="color: #cd5d7d;">Monica</span> : What happend?
 
 <span style="color: #cd5d7d;">Chandler</span> : Well, Joey was born and then 28 years later I was robbed!.
+</p>
+
+<h4><code>The One With Ross's Tan — Episode 3 Season 10</code></h4>
+<p>
+<span style="color: #cd5d7d;">Chandler</span> : Hold on; there is somyhing diffrent.
+
+<span style="color: #cd5d7d;">Ross</span> : I went to that tanning place your wife sugessted.
+
+<span style="color: #cd5d7d;">Chandler</span> : Was that place the sun??!
 </p>
 </li>
 
