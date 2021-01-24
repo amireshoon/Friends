@@ -108,7 +108,11 @@ some cheese?!
 <h4><code>The One With The Prom Video — Episode 14 Season 2</code></h4>
 <p>
 <span style="color: #cd5d7d;">Joey</span> : Some girl ate Monica.
+</p>
+<p>
 <span style="color: #cd5d7d;">Monica</span> : Shut up; the camera adds 10 pounds.
+</p>
+<p>
 <span style="color: #cd5d7d;">Chandler</span> : So, how many cameras are actually on you?
 </p>
 </li>
