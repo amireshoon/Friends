@@ -92,6 +92,14 @@ some cheese?!
 ## R
 
 ## S
+<li>
+<h4><code>The Pilot — Episode 1 Season 1</code></h4>
+<p>
+<span style="color: #cd5d7d;">Chandler</span> : sometimes i wish i was a lesbian
+
+<span style="color: #cd5d7d;"></span> did i said that out loud??
+</p>
+</li>
 
 ## T
 
