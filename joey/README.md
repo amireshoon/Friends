@@ -52,6 +52,14 @@ All the lines and sarcasm and also conversations in alphabetic characters.
 </p>
 </li>
 
+<li>
+<h4><code>The One Where Monica Gets a Roommate — Episode 01 Season 01</code></h4>
+<p>
+<span style="color: #cd5d7d;">Ross</span> : [after he's broken up with Carol] Hi...
+
+<span style="color: #cd5d7d;">Joey</span> : This guy says hello, I wanna kill myself.
+</p>
+</li>
 ## U
 
 ## V
