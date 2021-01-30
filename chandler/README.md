@@ -135,9 +135,12 @@ some cheese?!
 
 ## Y
 <li>
-<h4><code>The One Where Phoebe Runs — Episode 6 Season 7</code></h4>
+<h4><code>The One With Phoebe's Husband — Episode 4 Season 2</code></h4>
 <p>
-<span style="color: #cd5d7d;">Chandler</span> : Yes Ross, pressing my thid nipple opens up the delivery intrance of magic land of Narnia!
+<span style="color: #cd5d7d;">Ross</span> : so does it do anything special?
+</p>
+<p>
+<span style="color: #cd5d7d;">Chandler</span> : Yes Ross, pressing my third nipple opens up the delivery intrance of magical land of Narnia!
 </p>
 </li>
 
