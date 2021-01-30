@@ -11,6 +11,15 @@ All the lines and sarcasm and also conversations in alphabetic characters.
 
 ## D
 
+<li>
+<h4><code>The One with Joey's Fridge — Episode 19 Season 6</code></h4>
+<p>
+<span style="color: #cd5d7d;">Joey</span> : [Monica has slept with Paul the Wine Guy on the first date] That 'wasn't a real date.' What the hell do you do on a real date?
+
+<span style="color: #cd5d7d;">Monica</span> : Shut up and move my table back.
+</p>
+</li>
+
 ## E
 
 ## F
